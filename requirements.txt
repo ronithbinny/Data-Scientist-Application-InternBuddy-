@@ -22,7 +22,7 @@ cloudpickle==1.2.2
 colorama==0.4.3
 constantly==15.1.0
 cPython==0.0.5
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 decorator==4.4.1
 defusedxml==0.6.0
